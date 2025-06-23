@@ -6,11 +6,11 @@ package lab01estructura;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-import java.util.InputMismatchException;
 
 public class Operaciones {
-    private final Scanner scanner = new Scanner(System.in);
+    Scanner scanner = new Scanner(System.in);
     private final Pila pila = new Pila();
+    int opcion = 0;
 
     // === CLASE INTERNA PILA ===
     static class Pila {
@@ -41,9 +41,9 @@ public class Operaciones {
     public void calcularFibonacci() {
         try {
         System.out.println("Por favor selecciona cual funcion deseas realizar: \n1. Funcion de Fibonnaci Recursiva. \n2. Funcion Fibonnaci Iterativa. \n3. Volver al menu principal.");
-        int r = scanner.nextInt();
+        opcion = Integer.parseInt(scanner.nextLine());
         
-        switch (r) {
+        switch (opcion) {
                     case 1:
                         FibonnaciRecursivo();
                         break;
@@ -55,20 +55,23 @@ public class Operaciones {
                     default:
                         System.out.println("Opción no válida.");
         }
-        } catch (InputMismatchException e) {
+        } catch (NumberFormatException e) {
             System.out.println("Entrada inválida. Debe ingresar un número entero.");
         }
     }
 
     public void FibonnaciRecursivo(){
-          System.out.print("Introduce el número de elementos a mostrar de la serie: ");
-          int limite = scanner.nextInt();
-
- 
-          for(int i = 0; i<limite; i++){
+        try {
+        System.out.print("Introduce el número de elementos a mostrar de la serie: ");
+        opcion = Integer.parseInt(scanner.nextLine());
+          for(int i = 0; i<opcion; i++){
                System.out.print(funcionFibonacci(i) + ", ");
           }
+        }catch (NumberFormatException e) {
+            System.out.println("Entrada inválida. Debe ingresar un número entero.");
+        }
      }
+    
      private static int funcionFibonacci(int num){
           if(num == 0 || num==1)
                return num;
@@ -78,22 +81,25 @@ public class Operaciones {
      public void FibonnaciIterativo(){
                 int n1 = 0;
 		int n2 = 1;
+                try {
 		System.out.print("Introduce el número de elementos a mostrar de la serie: ");
-		int limite = scanner.nextInt();	
+		opcion = Integer.parseInt(scanner.nextLine());
 
 		System.out.print(n1 + ", ");
 		System.out.print(n2 + ", ");
 
-		for(int i = 0; i<limite-2; i++){
+		for(int i = 0; i<opcion-2; i++){
 			n2 = n1 + n2;
 			n1 = n2 - n1;
 			System.out.print(n2 + ", ");
 		}
+                }catch (NumberFormatException e) {
+            System.out.println("Entrada inválida. Debe ingresar un número entero.");
+        }
      }
 
     // === OPCIÓN 2: PILA ===
     public void operarConPila() {
-        int opcion = 0;
         do {
             try {
                 System.out.println("\n--- OPERACIONES CON PILA ---");
@@ -129,7 +135,7 @@ public class Operaciones {
                     default:
                         System.out.println("Opción no válida.");
                 }
-            } catch (InputMismatchException e) {
+            } catch (NumberFormatException e) {
                 System.out.println("Entrada inválida. Ingrese un número.");
             }
         } while (opcion != 5);
@@ -146,7 +152,7 @@ public class Operaciones {
             }
             System.out.println("Movimientos para " + discos + " discos:");
             hanoi(discos, 'A', 'B', 'C');
-        } catch (InputMismatchException e) {
+        } catch (NumberFormatException e) {
             System.out.println("Entrada inválida. Debe ser un número entero.");
         }
     }
@@ -161,4 +167,5 @@ public class Operaciones {
         }
     }
 }
+
 
