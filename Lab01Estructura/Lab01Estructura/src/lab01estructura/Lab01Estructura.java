@@ -6,10 +6,6 @@ package lab01estructura;
 
 import java.util.Scanner;
 
-/**
- *
- * @author gabriel-bermudez
- */
 public class Lab01Estructura {
 
     /**
