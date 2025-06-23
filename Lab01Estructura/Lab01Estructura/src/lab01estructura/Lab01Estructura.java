@@ -6,6 +6,7 @@ package lab01estructura;
 
 import java.util.Scanner;
 
+
 public class Lab01Estructura {
 
     /**
