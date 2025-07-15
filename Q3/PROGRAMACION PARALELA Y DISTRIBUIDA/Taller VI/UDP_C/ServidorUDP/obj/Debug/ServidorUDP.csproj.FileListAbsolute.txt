@@ -1,0 +1,24 @@
+C:\Users\Reynaldo\source\repos\ServidorUDP\bin\Debug\ServidorUDP.exe.config
+C:\Users\Reynaldo\source\repos\ServidorUDP\bin\Debug\ServidorUDP.exe
+C:\Users\Reynaldo\source\repos\ServidorUDP\bin\Debug\ServidorUDP.pdb
+C:\Users\Reynaldo\source\repos\ServidorUDP\obj\Debug\ServidorUDP.csproj.AssemblyReference.cache
+C:\Users\Reynaldo\source\repos\ServidorUDP\obj\Debug\ServidorUDP.csproj.CoreCompileInputs.cache
+C:\Users\Reynaldo\source\repos\ServidorUDP\obj\Debug\ServidorUDP.exe
+C:\Users\Reynaldo\source\repos\ServidorUDP\obj\Debug\ServidorUDP.pdb
+C:\Users\Reynaldo\source\repos\ServidorUDP\obj\Debug\ServidorUDP.exe.config
+C:\Users\Rey Jr\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\ServidorUDP\bin\Debug\ServidorUDP.exe.config
+C:\Users\Rey Jr\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\ServidorUDP\bin\Debug\ServidorUDP.exe
+C:\Users\Rey Jr\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\ServidorUDP\bin\Debug\ServidorUDP.pdb
+C:\Users\Rey Jr\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\ServidorUDP\obj\Debug\ServidorUDP.csproj.AssemblyReference.cache
+C:\Users\Rey Jr\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\ServidorUDP\obj\Debug\ServidorUDP.exe.config
+C:\Users\Rey Jr\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\ServidorUDP\obj\Debug\ServidorUDP.csproj.CoreCompileInputs.cache
+C:\Users\Rey Jr\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\ServidorUDP\obj\Debug\ServidorUDP.exe
+C:\Users\Rey Jr\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\ServidorUDP\obj\Debug\ServidorUDP.pdb
+C:\Users\ulacit\Downloads\Taller4\ServidorUDP\ServidorUDP\bin\Debug\ServidorUDP.exe.config
+C:\Users\ulacit\Downloads\Taller4\ServidorUDP\ServidorUDP\bin\Debug\ServidorUDP.exe
+C:\Users\ulacit\Downloads\Taller4\ServidorUDP\ServidorUDP\bin\Debug\ServidorUDP.pdb
+C:\Users\ulacit\Downloads\Taller4\ServidorUDP\ServidorUDP\obj\Debug\ServidorUDP.csproj.AssemblyReference.cache
+C:\Users\ulacit\Downloads\Taller4\ServidorUDP\ServidorUDP\obj\Debug\ServidorUDP.exe.config
+C:\Users\ulacit\Downloads\Taller4\ServidorUDP\ServidorUDP\obj\Debug\ServidorUDP.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Downloads\Taller4\ServidorUDP\ServidorUDP\obj\Debug\ServidorUDP.exe
+C:\Users\ulacit\Downloads\Taller4\ServidorUDP\ServidorUDP\obj\Debug\ServidorUDP.pdb
