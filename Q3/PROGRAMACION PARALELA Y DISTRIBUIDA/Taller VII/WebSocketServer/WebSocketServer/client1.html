@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>WebSocket Chat</title>
+</head>
+<body>
+    <h2>WebSocket Chat</h2>
+    <input type="text" id="messageInput" placeholder="Escribe un mensaje" />
+    <button onclick="sendMessage()">Enviar</button>
+    <ul id="chatLog"></ul>
+
+    <script>
+        const socket = new WebSocket("ws://localhost:5216/");
+        const clientId = "Cliente01";
+
+        let contador = 1;
+        const totalMensajes = 5;
+        let envioIniciado = false; 
+
+        socket.onopen = () => {
+            console.log("Conectado como " + clientId);
+
+            if (envioIniciado) return; 
+            envioIniciado = true;
+
+            const intervalo = setInterval(() => {
+                if (contador > totalMensajes) {
+                    clearInterval(intervalo);
+                    return;
+                }
+
+                const mensaje = `${clientId}: Mensaje ${contador}`;
+                socket.send(mensaje);
+                contador++;
+            }, 2000); 
+        };
+
+        socket.onmessage = (event) => {
+            logMessage("Mensaje de " + event.data);
+        };
+
+        function sendMessage() {
+            const input = document.getElementById("messageInput");
+            const message = `${clientId}: ${input.value}`;
+            socket.send(message);
+            input.value = "";
+        }
+
+        function logMessage(texto) {
+            const log = document.getElementById("chatLog");
+            const li = document.createElement("li");
+            li.textContent = texto;
+            log.appendChild(li);
+        }
+    </script>
+
+</body>
+</html>
