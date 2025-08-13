@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\bin\Debug\net8.0\GuildQueueClient.exe
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\bin\Debug\net8.0\GuildQueueClient.deps.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\bin\Debug\net8.0\GuildQueueClient.runtimeconfig.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\bin\Debug\net8.0\GuildQueueClient.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\bin\Debug\net8.0\GuildQueueClient.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\GuildQueueClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\GuildQueueClient.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\GuildQueueClient.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\GuildQueueClient.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\GuildQueueClient.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\refint\GuildQueueClient.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\GuildQueueClient.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\GuildQueueClient.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\ref\GuildQueueClient.dll

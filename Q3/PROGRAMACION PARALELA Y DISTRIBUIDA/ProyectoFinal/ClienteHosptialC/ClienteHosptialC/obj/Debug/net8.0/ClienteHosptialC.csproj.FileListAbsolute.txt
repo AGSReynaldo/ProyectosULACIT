@@ -1,0 +1,56 @@
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\bin\Debug\net8.0\ClienteHosptialC.exe
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\bin\Debug\net8.0\ClienteHosptialC.deps.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\bin\Debug\net8.0\ClienteHosptialC.runtimeconfig.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\bin\Debug\net8.0\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\bin\Debug\net8.0\ClienteHosptialC.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\obj\Debug\net8.0\refint\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ClienteHospitalC\GuildQueueClient\obj\Debug\net8.0\ref\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\bin\Debug\net8.0\ClienteHosptialC.exe
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\bin\Debug\net8.0\ClienteHosptialC.deps.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\bin\Debug\net8.0\ClienteHosptialC.runtimeconfig.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\bin\Debug\net8.0\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\bin\Debug\net8.0\ClienteHosptialC.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\refint\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\ClienteHosptialC.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueClient\GuildQueueClient\obj\Debug\net8.0\ref\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\bin\Debug\net8.0\ClienteHosptialC.exe
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\bin\Debug\net8.0\ClienteHosptialC.deps.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\bin\Debug\net8.0\ClienteHosptialC.runtimeconfig.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\bin\Debug\net8.0\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\bin\Debug\net8.0\ClienteHosptialC.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\refint\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ref\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\bin\Debug\net8.0\ClienteHosptialC.exe
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\bin\Debug\net8.0\ClienteHosptialC.deps.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\bin\Debug\net8.0\ClienteHosptialC.runtimeconfig.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\bin\Debug\net8.0\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\bin\Debug\net8.0\ClienteHosptialC.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\refint\ClienteHosptialC.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ClienteHosptialC.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ClienteHosptialC\ClienteHosptialC\obj\Debug\net8.0\ref\ClienteHosptialC.dll
