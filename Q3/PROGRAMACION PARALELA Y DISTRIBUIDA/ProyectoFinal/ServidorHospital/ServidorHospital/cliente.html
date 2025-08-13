@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Cliente de Tiquetes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .container {
+            display: flex;
+            gap: 20px;
+        }
+
+        .column {
+            flex: 1;
+            border: 1px solid #ccc;
+            padding: 15px;
+            border-radius: 6px;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+
+        input[type="text"], textarea {
+            width: 100%;
+            padding: 6px;
+            margin-top: 4px;
+            box-sizing: border-box;
+        }
+
+        button {
+            margin-top: 12px;
+            padding: 8px 12px;
+        }
+
+        .output {
+            margin-top: 14px;
+            padding: 10px;
+            background: #f9f9f9;
+            border: 1px dashed #999;
+            min-height: 40px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hospital – Cliente de Tiquetes</h1>
+    <div class="container">
+        <!-- De aqui en adelante empieza la primer columna que es la de solicitar tiquetes-->
+        <div class="column">
+            <h2>Crear Tiquete</h2>
+            <form id="form-create">
+                <label>
+                    Nombre:
+                    <input type="text" id="cliente" required />
+                    <!-- cada uno de estos label es el espacio que dice que dato se ocupa, y como tal donde introducirlo -->
+                </label>
+                <label>
+                    Motivo del tiquete:
+                    <textarea id="descripcion" rows="3" required></textarea>
+                </label>
+                <label>
+                    <input type="checkbox" id="emergencia" />
+                    Emergencia
+                </label>
+                <button type="submit">Subir</button>
+            </form>
+            <div id="output-create" class="output"></div>
+        </div>
+
+        <!-- Aqui comienza la segunda columna la cual es para consultar la posicion de un tiquete-->
+        <div class="column">
+            <h2>Consultar Tiquete</h2>
+            <form id="form-check">
+                <label>
+                    ID de tiquete:
+                    <input type="text" id="check-id" required />
+                </label>
+                <button type="submit">Buscar</button>
+            </form>
+            <div id="output-check" class="output"></div>
+        </div>
+    </div>
+
+    <script>
+        const socket = new WebSocket("ws://localhost:9001/ws/");
+        let lastSent = null;
+
+        socket.addEventListener("open", () => {
+            console.log("WebSocket conectado.");
+        });
+
+        socket.addEventListener("message", event => {
+            const msg = event.data;
+
+
+
+
+            const idMatch = msg.match(/ID:\s*(\d+)/i);
+            const posMatch = msg.match(/Posici[oó]n:\s*(-?\d+)/i);
+            //Esta expresion lo que hace es que recibe las respuestas del servidor y busca entre ellas: ID: <numero> y posicion: <numero>
+
+            if (/^El nuevo turno fue solicitado!?/i.test(msg)) {
+                const id = idMatch ? idMatch[1] : "?";
+                const pos = posMatch ? posMatch[1] : "?";
+                document.getElementById("output-create").textContent =
+                    `El mensaje fue enviado con número de tiquete ${id}. Posición actual ${pos}.`;
+                //Este if se encarga de que cada vez que enviemos una solicitud, cuando reciba el mensaje de confirmacion del servidor,
+                //Nos muestre en pantalla el mensajue de confirmacion
+            }
+            else if (/^El turno con ID:/i.test(msg) && /posici[oó]n/i.test(msg)) {
+                const id = idMatch ? idMatch[1] : "?";
+                const pos = posMatch ? posMatch[1] : "?";
+                document.getElementById("output-check").textContent =
+                    `El tiquete ${id} se encuentra en la cola de espera en posición de prioridad ${pos}.`;
+                    //En este caso, funciona igual que el bloque anterior, pero en este caso es para consultar la posicion del tiquete
+            }
+            // Creamos un bloque para caso de que haya algun error
+            else if (/^ERROR\b|^ERROR,/i.test(msg)) {
+                const outEl = lastSent === "SOLICITAR"
+                    ? document.getElementById("output-create")
+                    : document.getElementById("output-check");
+                const errText = msg.replace(/^ERROR[:,]?\s*/i, "") || "Ocurrió un error.";
+                outEl.textContent = errText;
+            } else {
+                // En caso de que llegue un mensaje que no se pueda interpretar, se envia este mensaje para evitar caidas
+                console.log("Respuesta no reconocida:", msg);
+            }
+        });
+
+        // Esta parte del codigo obtiene los valores de las casillas de la primer columna, para poder enviarlos al servidor a traves del socket
+        document.getElementById("form-create").addEventListener("submit", e => {
+            e.preventDefault();
+            const cliente = document.getElementById("cliente").value.trim();
+            const desc = document.getElementById("descripcion").value.trim();
+            const isEmerg = document.getElementById("emergencia").checked;
+            // Construimos el comando: SOLICITAR|cliente|true|descripcion
+            const cmd = `SOLICITAR|${cliente}|${isEmerg}|${desc}`;
+            lastSent = "SOLICITAR";
+            socket.send(cmd);
+        });
+
+        // Esta parte del codigo obtiene los valores de las casillas de la segunda columna, para poder enviarlos al servidor a traves del socket
+        document.getElementById("form-check").addEventListener("submit", e => {
+            e.preventDefault();
+            const id = document.getElementById("check-id").value.trim();
+            const cmd = `POSICION|${id}`;
+            lastSent = "POSICION";
+            socket.send(cmd);
+        });
+    </script>
+</body>
+</html>

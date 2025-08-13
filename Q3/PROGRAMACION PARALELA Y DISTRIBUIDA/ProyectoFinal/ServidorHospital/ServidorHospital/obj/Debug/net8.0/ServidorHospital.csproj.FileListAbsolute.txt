@@ -1,0 +1,56 @@
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\bin\Debug\net8.0\ServidorHospital.exe
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\bin\Debug\net8.0\ServidorHospital.deps.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\bin\Debug\net8.0\ServidorHospital.runtimeconfig.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\bin\Debug\net8.0\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\bin\Debug\net8.0\ServidorHospital.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\obj\Debug\net8.0\refint\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\ServidorHospital\GuildQueueServer\obj\Debug\net8.0\ref\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\bin\Debug\net8.0\ServidorHospital.exe
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\bin\Debug\net8.0\ServidorHospital.deps.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\bin\Debug\net8.0\ServidorHospital.runtimeconfig.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\bin\Debug\net8.0\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\bin\Debug\net8.0\ServidorHospital.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\obj\Debug\net8.0\refint\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\obj\Debug\net8.0\ServidorHospital.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\SEMANA 14\GuildQueueServer\GuildQueueServer\obj\Debug\net8.0\ref\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\bin\Debug\net8.0\ServidorHospital.exe
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\bin\Debug\net8.0\ServidorHospital.deps.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\bin\Debug\net8.0\ServidorHospital.runtimeconfig.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\bin\Debug\net8.0\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\bin\Debug\net8.0\ServidorHospital.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\obj\Debug\net8.0\refint\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\PROBANDO\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ref\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\bin\Debug\net8.0\ServidorHospital.exe
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\bin\Debug\net8.0\ServidorHospital.deps.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\bin\Debug\net8.0\ServidorHospital.runtimeconfig.json
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\bin\Debug\net8.0\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\bin\Debug\net8.0\ServidorHospital.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\obj\Debug\net8.0\refint\ServidorHospital.dll
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.pdb
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ServidorHospital.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - ULACIT ED CR\CUATRIMESTRES I.I\Q3\4 PROGRAMACIÓN PARALELA Y DISTRIBUIDA\C#\Proyecto Final\ServidorHospital\ServidorHospital\obj\Debug\net8.0\ref\ServidorHospital.dll

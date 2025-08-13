@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ServidorHospital/1.0.0": {
+        "runtime": {
+          "ServidorHospital.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServidorHospital/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
